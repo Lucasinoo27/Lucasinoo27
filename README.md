@@ -16,5 +16,6 @@ Check out my repos ⬇️
 </samp></p>
 
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasinoo27&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasinoo27&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Stats">
+</p>
