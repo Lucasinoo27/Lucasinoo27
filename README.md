@@ -1,16 +1,26 @@
-## Hi there 👋
+<h4 align="center"><samp> Hi there 👋, welcome to my Github! I'm Lukáš, an Open Source Contributor and aspiring Software Developer. I also enjoy Python and diving into frameworks like Angular and Vue.js to make the web faster and smoother 🐍 ☁️ </samp></h4>
 
-<!--
-**Lucasinoo27/Lucasinoo27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🎯 My Interests:
+- 📱 Developing Web Applications
+- 🎓 Studying Computer Science at University
+- ⚙️ Passionate about Application User Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img width="250" src="assets/animation.gif">
+</p>
+
+### 📬 Reach Me:
+<p align="center">
+  <a href="https://github.com/Lucasinoo27" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" alt="GitHub" width="32" />
+  </a>
+</p>
+
+<p align="center"><samp>
+Check out my repos ⬇️  
+</samp></p>
+
+
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasinoo27&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
