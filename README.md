@@ -11,11 +11,11 @@
   </a>
 </p>
 
-<p align="center"><samp>
-Check out my repos ⬇️  
-</samp></p>
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasinoo27&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Stats">
 </p>
+
+<p align="center"><samp>
+Check out my repos ⬇️  
+</samp></p>
