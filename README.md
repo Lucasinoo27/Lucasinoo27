@@ -5,11 +5,7 @@
 <p align="center">
   <img width="350" src="animation.gif">
 </p>
-<p align="center">
-  <a href="https://github.com/Lucasinoo27" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" alt="GitHub" width="32" />
-  </a>
-</p>
+
 
 
 <p align="center">
